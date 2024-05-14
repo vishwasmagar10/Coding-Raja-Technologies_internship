@@ -11,11 +11,11 @@ here is a demo,
 
 # Demo:
 
-<img src=r"C:/Users/vishw/OneDrive/Pictures/Screenshots\demo1.png"  alt="workflow" width="70%">
+<img src="C:/Users/vishw/OneDrive/Pictures/Screenshots/demo1.png"  alt="workflow" width="70%">
 
-<img src=r"C:\Users\vishw\OneDrive\Pictures\Screenshots\demo2.png"  alt="workflow" width="70%">
+<img src="C:\Users\vishw\OneDrive\Pictures\Screenshots\demo2.png"  alt="workflow" width="70%">
 
-<img src=r"C:\Users\vishw\OneDrive\Pictures\Screenshots\demo3.png" alt="workflow" width="70%">
+<img src="C:\Users\vishw\OneDrive\Pictures\Screenshots\demo3.png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
